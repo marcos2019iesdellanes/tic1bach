@@ -1,8 +1,8 @@
 <?php
-   echo "Hola mi nombre es Marcos y hoy tengo un buen día";
-   echo "Hasta luego";
+   echo "Hola mi nombre es Marcos y hoy tengo un buen día\n";
+   echo "Hasta luego\n";
 
-$K= "Hoy es viernesC\n";
-$K= "Mañana sábadoC\n";
+$K= "Hoy es viernes\n";
+$p= "Mañana sábado\n";
 echo $K."\n".$p."\n";
 ?>
