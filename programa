@@ -1,8 +1,10 @@
 <?php
-   echo "Hola mi nombre es Marcos y hoy tengo un buen día\n";
-   echo "Hasta luego\n";
-
-$K= "Hoy es viernes\n";
-$p= "Mañana sábado\n";
-echo $K."\n".$p."\n";
+for($i=2;$i<=70;$i=$i+2)
+{
+    if(($i/3)!=floor($i/3))  
+  {
+    echo "$i - ";
+  }
+}
 ?>
+
